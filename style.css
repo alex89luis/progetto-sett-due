@@ -1,0 +1,159 @@
+body {
+
+    margin: 0%;
+    padding: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    background-color: black;
+    margin: 0%;
+    padding: 0%;
+    border-bottom: 10px;
+}
+
+nav {
+
+    margin: 0%;
+    padding: 0%;
+    background-color: rgba(11, 11, 142, 0.759);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    display: block;
+
+
+}
+
+.menu {
+    text-align: left;
+}
+
+.menu-p {
+    display: inline;
+    margin: 5px;
+    text-size-adjust: 10px;
+
+}
+
+main {
+    background-color: rgb(219, 209, 209);
+    padding-top: 10px;
+}
+
+.primo-article {
+    padding: 2px;
+    margin: 15px;
+    background-color: rgb(220, 94, 16);
+    text-align: center;
+    color: white;
+}
+
+.secondo-article {
+    padding: 25px;
+    margin: 15px;
+    background-image: url(bg-image.png);
+    text-align: center;
+    color: white;
+}
+ .terzo-article { 
+    background-color: white;
+    padding: 25px;
+    margin: 15px;
+    
+    
+
+}
+.menu-due{
+text-align: left;
+margin: 0%;
+padding: 0%;
+}
+.p-due{
+    display: inline;
+    margin: 5px;
+    text-size-adjust: 10px;
+    color: rgb(38, 116, 116);
+}
+
+
+
+#immagine-uno{
+    background-image:url(img_1.jpg);
+
+}
+#immagine-due{
+    background-image: url(img_2.jpg);
+
+}
+#immagine-tre{
+    background-image: url(img_3.jpg);
+
+}
+#immagine-quattro{
+    background-image: url(img_4.jpg);
+
+}
+
+.div-immagine{
+    display: inline-block;
+    width: 250px;
+    height: 400px;
+    margin: 20px 30px;
+    max-width: 100%;
+    border-radius: 15px;
+    box-shadow: 5px 5px 10px rgb(172,172,172) ;
+    background-position: center;
+    background-size: cover;
+}
+
+.menu-tre{
+    text-align: center;
+    padding: 25px;
+    margin: 15px;
+    
+    
+    
+    
+}
+    
+.penultima-uno{
+
+    display: inline;
+    margin: 5px;
+    text-size-adjust: 10px;
+}
+.penultima-due{
+    display: inline;
+    margin: 5px;
+    text-size-adjust: 10px;
+    color: rgb(38, 116, 116);
+}
+
+
+.section{
+    margin: 0%;
+    padding: 0%;
+    background-color: rgba(11, 11, 142, 0.759);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    display: block;
+    text-align: center;
+
+}
+.footer{
+    background-color: rgb(5, 5, 79);
+    text-align: center;
+    
+}
+
+
+
+
+
+
+
+
+
+
